@@ -9,8 +9,8 @@ A small test repository for the Super-agent pilot.
 
 ## Getting started
 
-See the [docs](https://example.invalid/dsh-test-repo/docs) for details.
-Install with `npm i dsh-test-repo` and you will recieve updates.
+See the [repository](https://github.com/dshbot01/dsh-test-repo) for details.
+Install with `npm i dsh-test-repo` and you will receive updates.
 
 ## License
 
